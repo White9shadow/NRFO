@@ -12,22 +12,23 @@
    -extract the NRFO.zip on intaral storage
 
 #3.Run the scrip
-   - Launch the termux app on your Android device.
-   - sh < file path to rish>
-  
+   - Launch the termux app on your Android device
+   ```
+ sh /sdcard/NRFO/rish
+  ```
 #4.put following command to install the optimizer
 
 
-‎```
 
-     rm -rf /data/local/tmp/* && cp < file path of NFRO > /data/local/tmp && chmod +x /data/local/tmp/NRFO && /data/local/tmp/NRFO 
-
+```
+rm -rf /data/local/tmp/* && cp /sdcard/NRFO/NRFO /data/local/tmp && chmod +x /data/local/tmp/NRFO && /data/local/tmp/NRFO
+```
 
 
 #Uninstall
 ```
 
-rm -rf /data/local/tmp/* && cp < file path of UNRFO > /data/local/tmp && chmod +x /data/local/tmp/NRFO && /data/local/tmp/UNRFO
+rm -rf /data/local/tmp/* && cp /sdcard/NRFO/UNRFO /data/local/tmp && chmod +x /data/local/tmp/NRFO && /data/local/tmp/UNRFO
 
 ```
 
