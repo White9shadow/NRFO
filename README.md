@@ -1,22 +1,25 @@
-## NRFO 🚀
-## NO ROOT FULL OPTIMIZATION
-## Usage 🔢
+# NRFO 🚀
+# NO ROOT FULL OPTIMIZATION
+# Usage 🔢
 
-#1. all required
+1. all required
 
    -Shizuku
    -Termux
 
 #2.extract:
+   - create a folder named NRFO
+   -extract the NRFO.zip on NRFO folder you created on Interal storage
 
-   -extract the NRFO.zip on intaral storage
+3.Shizuku
+   -run shizuku and connect wireless debuging
 
-#3.Run the scrip
+4.Run the script
    - Launch the termux app on your Android device
    ```
  sh /sdcard/NRFO/rish
   ```
-#4.put following command to install the optimizer
+5.put following command to install the optimizer
 
 
 
@@ -25,14 +28,17 @@ rm -rf /data/local/tmp/* && cp /sdcard/NRFO/NRFO /data/local/tmp && chmod +x /da
 ```
 
 
-#Uninstall
+# Uninstall
 ```
 
 rm -rf /data/local/tmp/* && cp /sdcard/NRFO/UNRFO /data/local/tmp && chmod +x /data/local/tmp/NRFO && /data/local/tmp/UNRFO
 
 ```
 
-## Download 📲
+
+
+# Download 📲
+
 You can download GSMxNOROR from the following:
 
 • [GS TO PLING](https://www.godtspeed.xyz/2023/07/godspees-nrfo-no-root-full-optimization.html)
