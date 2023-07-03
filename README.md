@@ -2,18 +2,20 @@
 ## NO ROOT FULL OPTIMIZATION
 ## Usage 🔢
 
-1. all required
+#1. all required
+
    -Shizuku
    -Termux
 
-2.extract:
+#2.extract:
+
    -extract the NRFO.zip on intaral storage
 
-3.Exixute
+#3.Run the scrip
    - Launch the termux app on your Android device.
    - sh < file path to rish>
   
-4.put following command to install the optimizer
+#4.put following command to install the optimizer
 
 
 ‎```
