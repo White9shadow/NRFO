@@ -21,7 +21,9 @@
 ‎```
      rm -rf /data/local/tmp/* && cp < file path of NFRO > /data/local/tmp && chmod +x /data/local/tmp/NRFO && /data/local/tmp/NRFO ```
 
-
+#Uninstall
+```
+rm -rf /data/local/tmp/* && cp < file path of UNRFO > /data/local/tmp && chmod +x /data/local/tmp/NRFO && /data/local/tmp/UNRFO ```
 
 ## Download 📲
 You can download GSMxNOROR from the following:
